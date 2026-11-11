@@ -1,0 +1,6 @@
+{
+  "name": "Mentora - Habesha Community Tutoring & Summer Camp Platform",
+  "description": "Educational bridge connecting Ethiopian parents with certified KG 1–3 and Grades 1–8 home-to-home tutors, private & group packages, 8 summer camp tracks, and character development rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
